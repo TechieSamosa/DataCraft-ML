@@ -63,6 +63,34 @@ Once you've pushed your changes to your forked repository, navigate to the origi
 This repository is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Spread the Word
+<div align='center'>
+  <h2>✨Top Contributors</h2>   
+Thanks to these wonderful people! Contributions of any kind are welcome! 🚀
+
+  <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+  <!-- prettier-ignore-start -->
+  <!-- markdownlint-disable -->
+  <a href="https://github.com/TheNaiveSamosa/DataCraft-ML/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=TheNaiveSamosa/DataCraft-ML" />
+  </a>
+  <!-- markdownlint-enable -->
+  <!-- prettier-ignore-end -->
+  <!-- ALL-CONTRIBUTORS-LIST:END -->
+  <h2>⭐Give this Project a Star</h2>
+ 
+
+If you liked working on this project, give it a ⭐ and share this repository.
+
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+
+  <h2>📬 Contact</h2>
+If you'd like to contact us, you can reach us through our social media handles.
+
+<a href="https://www.linkedin.com/in/adityakhamitkar/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>   <a href="https://twitter.com/Couch_Potatoh_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="25"></img></a> | <a href="https://www.instagram.com/couch_potatoh_/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/100-Medium-512.png" width="25"></img></a> | <a href="https://www.reddit.com/user/The-Cactus-Flower/"><img src="https://image.flaticon.com/icons/png/512/87/87419.png" width="25"></img></a>
+
+We encourage all members of our Data Science Club community to contribute their projects to this repository and showcase their skills!
+
+</div>
 
 Help us grow our community by sharing this repository with your friends and colleagues who share a passion for data science, machine learning, and SQL. Don't forget to star and fork the repository to show your support!
 
